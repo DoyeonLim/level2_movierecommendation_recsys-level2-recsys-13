@@ -2,7 +2,7 @@
 Check out Wrap Up Report at [Link](https://github.com/boostcampaitech4lv23recsys2/level2_movierecommendation_recsys-level2-recsys-13/blob/main/Wrap_Up_Report.pdf)
 
 ## Project Overview
-- 대회 내용 : Movie Recommendataion(사용자의 영화 시정 이력 데이터를 바탕으로 사용자가 다음에 시청할 영화 및 좋아할 영화를 예측)
+- 대회 내용 : Movie Recommendataion(사용자의 영화 시청 이력 데이터를 바탕으로 사용자가 다음에 시청할 영화 및 좋아할 영화를 예측)
 - 평가지표 : Recall@10
 
 ## Dataset
